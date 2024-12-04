@@ -1,0 +1,53 @@
+<mujoco>
+    <default>
+        <geom type="capsule" size=".0025" rgba="0.2 1 0.9 0.5"/>
+        <site size="0.001" rgba="0.4 0.2 0.2 1"/>
+    </default>
+    <worldbody>
+        <light pos="0 0 2"/>
+        <body pos="0 0 0" name="1">
+            <geom type="box" size=".0005 .015 .015"/>
+            <site name="s1" pos="0.001 0 .011"/>
+            <site name="s5" pos="0.001 0 -.011"/>
+            <body pos=".046 0 0">
+                <geom name="R1" type="cylinder" fromto="0 .006 0 0 -.006 0" size=".012" rgba="0.1 0.2 0.5 0.9"/>
+                <site name="s2" pos="0 0 .014"/>
+                <site name="s6" pos="0 0 -.014"/>
+                <joint name="A" damping="0.01" type="hinge" range="-60 60" axis="0 1 0"/>
+                <site name="s0" pos=".02 0 0"/> 
+
+
+                    <body pos="0.043 0 0">
+                        <joint name="B" type="hinge"  range="-60 60" axis="0 1 0"/>
+                        <geom name="R2" type="cylinder" fromto="0 .01 0 0 -.01 0" size=".011" rgba="0.9 1 0.8 0.9"/>
+                        <site name="s7" pos="0 0 .012"/>
+                        <site name="s3" pos="0 0 -.012"/>
+                        <body name="end_ef" pos="0 0 0">
+                            <geom name="end_ef" pos=".06 0 0" type="box" size=".0015 .015 .017"/>
+                            <site name="s8" pos=".058 0 .014"/>
+                            <site name="s4" pos=".058 0 -.014"/>
+                        </body>
+                    </body>
+            </body>
+        </body>
+    </worldbody>
+    <tendon>
+        <spatial width=".00051" springlength="2" >
+            <site site="s1"/>
+            <geom geom="R1" sidesite="s2"/>
+            <site site="s0"/>
+            <geom geom="R2" sidesite="s3"/>
+            <site site="s4"/>
+        </spatial>
+        <spatial  width=".00051" springlength="1">
+            <site site="s5"/>
+            <geom geom="R1" sidesite="s6"/>
+            <site site="s0"/>
+            <geom geom="R2" sidesite="s7"/>
+            <site site="s8"/>
+        </spatial>
+    </tendon>
+
+
+    
+</mujoco>
