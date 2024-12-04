@@ -13,12 +13,12 @@
                 <geom name="R1" type="cylinder" fromto="0 .006 0 0 -.006 0" size=".012" rgba="0.1 0.2 0.5 0.9"/>
                 <site name="s2" pos="0 0 .014"/>
                 <site name="s6" pos="0 0 -.014"/>
-                <joint name="A" damping="0.01" type="hinge" range="-60 60" axis="0 1 0"/>
+                <joint name="R1"  type="hinge" range="-60 60" axis="0 1 0"/>
                 <site name="s0" pos=".02 0 0"/> 
 
 
                     <body pos="0.043 0 0">
-                        <joint name="B" type="hinge"  range="-60 60" axis="0 1 0"/>
+                        <joint name="R2" type="hinge"  range="-10 60" axis="0 1 0"/>
                         <geom name="R2" type="cylinder" fromto="0 .01 0 0 -.01 0" size=".011" rgba="0.9 1 0.8 0.9"/>
                         <site name="s7" pos="0 0 .012"/>
                         <site name="s3" pos="0 0 -.012"/>
@@ -32,14 +32,14 @@
         </body>
     </worldbody>
     <tendon>
-        <spatial width=".00051" springlength="2" >
+        <spatial width=".00051" springlength="100" range="0.1 0.5" solimplimit="0.001 0.001 0.001 0.5 1" solreflimit="0 10" >
             <site site="s1"/>
             <geom geom="R1" sidesite="s2"/>
             <site site="s0"/>
             <geom geom="R2" sidesite="s3"/>
             <site site="s4"/>
         </spatial>
-        <spatial  width=".00051" springlength="1">
+        <spatial  width=".00051" springlength="100" range="0.1 0.5" solimplimit="0.001 0.001 0.001 0.5 1" solreflimit="0 10" >
             <site site="s5"/>
             <geom geom="R1" sidesite="s6"/>
             <site site="s0"/>

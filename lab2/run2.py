@@ -26,5 +26,3 @@ with mujoco.viewer.launch_passive(m, d) as viewer:
 
 
 
-
-
