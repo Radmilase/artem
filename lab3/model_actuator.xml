@@ -13,7 +13,7 @@
                 <geom name="R1" type="cylinder" fromto="0 .006 0 0 -.006 0" size=".012" rgba="0.1 0.2 0.5 0.9"/>
                 <site name="s2" pos="0 0 .014"/>
                 <site name="s6" pos="0 0 -.014"/>
-                <joint name="R1"  type="hinge" range="-10 60" axis="0 1 0"/>
+                <joint name="R1"  type="hinge" range="-60 60" axis="0 1 0"/>
                 <site name="s0" pos=".02 0 0"/> 
 
 
