@@ -1,0 +1,3009 @@
+Wed Dec  4 22:11:49 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.4200.
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0040.
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:02 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:03 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:04 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:05 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:06 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:07 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:08 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:09 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:10 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:11 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:12 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:13 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
+Wed Dec  4 22:18:14 2024
+WARNING: mixed solref format, replacing with default
+
