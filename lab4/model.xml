@@ -55,7 +55,7 @@
     </worldbody>
 
     <actuator>
-        <position name="D_actuator" joint="D" />
+        <position name="D_actuator" joint="D" gear="1"/>
     </actuator>
 
     <equality>
